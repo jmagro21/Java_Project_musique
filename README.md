@@ -1,4 +1,4 @@
-Ceci est un projet java, qui est à bute pédagogique.
+Ceci est un projet java, qui est à but pédagogique.
 
 Le but c'est de créer une application de "vote de musique dans une soirée", plus la musique à de vote plus elle est haute dans la file d'attente.
 
