@@ -1,0 +1,133 @@
+body{
+    background: #40bf40;
+  background-image: url(image/club1.jpg);
+  border: solid 2px;
+  text-shadow: aqua 0px 0px 2px;
+  font-size: 16px;
+  background-size: cover;
+  
+}
+
+#container{
+    width:400px;
+    margin:0 auto;
+    margin-top:5%;
+}
+#container2{
+    width:600px;
+    margin:0 auto;
+    margin-top:5%;
+}
+#container3{
+    width:50%;
+    margin:0 auto;
+    margin-top:2%;
+   
+}
+#container3 img{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+/* Bordered form */
+form {
+    width:90%;
+    padding: 50px;
+    background: linear-gradient(to bottom, 
+                    rgba(8,14,44), 
+                    rgba(80,16,207,0.8),
+                    rgba(255,0,218,0.8)90%);
+    
+}
+#container h1{
+    width: 38%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Defini un style pour tout les boutons */
+input[type=submit] {
+    background-color: #482ce8;
+    color: lightblue;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover {
+    background-color: lightblueblue;
+    color: #53af57;
+    border: 1px solid #53af57;
+}
+
+.flotte {
+    float:left;
+}
+
+.neonText {
+  color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+}
+.neonText {
+  color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
+
+/* Additional styling */
+  
+body {
+  font-size: 18px;
+  font-family: "Vibur", sans-serif;
+  background-color: #010a01;
+}  
+
+h1, h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+  
+h1 {
+    font-size: 4.2rem;
+}
+  
+h2 {
+    font-size: 1.8rem;
+}
+
+h4 {
+    font-size: 2
+}
+.container {
+  margin-top: 20vh;
+}
+
+h6 {
+    font-size: 1.2rem;
+}
